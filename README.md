@@ -3,7 +3,7 @@
 ## 💫 About Me:
 I am 19 years old, I am currently studying everything about the world of data, and I am also a crypto enthusiast.
 
-## 💻 Tech Stack:
+## 💻 Social:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)  https://www.linkedin.com/in/cristian-rojas-584228263/
 
 ## 💻 Tech Stack:
